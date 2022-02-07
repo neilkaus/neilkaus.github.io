@@ -415,18 +415,18 @@ footer ul li {
 @media screen and (max-width: 420px) {
   .hero img {
     max-height: 30rem;
-    max-width: 20rem;
+    max-width: 17rem;
   }
 
   .bio {
-    max-width: 18.3rem;
+    max-width: 17rem;
   }
 
   .project-container {
-    width: 17.875rem;
+    max-width: 17rem;
   }
 
   .contact-form-container {
-    max-width: 17.75rem;
+    max-width: 17rem;
   }
 }
